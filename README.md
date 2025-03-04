@@ -8,9 +8,15 @@ Colab link- https://colab.research.google.com/drive/19t9L2s_BcC1PBIr7g9m01D40jj0
 Research Paper- https://drive.google.com/file/d/1c9BXSo-8fdmU1wbqYaDQ0lidyGyfVyL-
 /view?usp=sharing
 
-Group Members1. Nirmal Chaturvedi
+Group Members
+1.
+Nirmal Chaturvedi
 Prn- 202201040210
-2. Vivek Borade
+
+2.
+Vivek Borade
 Prn- 202201040216
-3. Abhijeet Jadhav
+
+3.
+Abhijeet Jadhav
 Prn- 202201040122
